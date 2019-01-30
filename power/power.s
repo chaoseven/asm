@@ -1,3 +1,5 @@
+#purpose: calculate 3^2 + 4^2
+
 .section .data
 
 .section .text
