@@ -1,3 +1,5 @@
+#purpose: find the maximum of data_items
+
 .section .data
 
 data_items:
