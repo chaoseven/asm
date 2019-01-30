@@ -1,3 +1,5 @@
+#purpose: calculate factorial of number 5
+
 .section .data
 
 .section .text
